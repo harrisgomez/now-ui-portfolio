@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import App from './App';
+
 // 'NOW UI KIT' styles
 import "./assets/css/bootstrap.min.css";
 import "./assets/scss/now-ui-kit.scss";
 import "./assets/demo/demo.css";
 import './index.css';
 
-import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
